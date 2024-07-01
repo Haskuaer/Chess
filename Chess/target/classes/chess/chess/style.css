@@ -1,0 +1,9 @@
+.stage{
+    -fx-background-color: #5e5c55;
+}
+.white-cell{
+    -fx-background-color: #cdc388;
+}
+.black-cell{
+    -fx-background-color: #588f3d;
+}
